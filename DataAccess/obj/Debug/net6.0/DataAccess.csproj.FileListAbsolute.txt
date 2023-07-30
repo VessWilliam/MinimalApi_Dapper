@@ -1,0 +1,72 @@
+D:\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+D:\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting\DataAccess\bin\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting - Copy\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting - Copy\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting - Copy\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Vesswilliam\Desktop\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\PROJECT AEX\API Done Step-1 Project\MinimalApiTesting - Copy\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Vesswilliam\Desktop\PROJECT AEX\API Done Step-1 Project\MinimalApiTesting - Copy\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\PROJECT AEX\API Done Step-1 Project\MinimalApiTesting - Copy\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Vesswilliam\Desktop\PROJECT AEX\API Done Step-1 Project\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Vesswilliam\Desktop\PROJECT AEX\API Done Step-1 Project\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesswilliam\Desktop\PROJECT AEX\API Done Step-1 Project\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Vesswilliam\Desktop\PROJECT AEX\API Done Step-1 Project\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Vesswilliam\Desktop\PROJECT AEX\API Done Step-1 Project\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vesswilliam\Desktop\PROJECT AEX\API Done Step-1 Project\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\PROJECT AEX\API Done Step-1 Project\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\PROJECT AEX\API Done Step-1 Project\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Vesswilliam\Desktop\PROJECT AEX\API Done Step-1 Project\MinimalApiTesting - Copy\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\APIF\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Vesswilliam\Desktop\APIF\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\APIF\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Vesswilliam\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Vesswilliam\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vesswilliam\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Vesswilliam\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Vesswilliam\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vesswilliam\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\APIF\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Vesswilliam\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Vesswilliam\Desktop\APIF\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\vess1\Desktop\APIF\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\vess1\Desktop\APIF\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\vess1\Desktop\APIF\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\vess1\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\vess1\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vess1\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\vess1\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\vess1\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\vess1\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\vess1\Desktop\APIF\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\vess1\Desktop\APIF\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\vess1\Desktop\APIF\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
